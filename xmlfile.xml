@@ -1,0 +1,381 @@
+<!-- xml file for displaying all the SPORTs around the world -->
+<list_of_SPORTs>
+<SPORT>
+<NAME>3D Archery </NAME>
+<DESCRIPTION>A form of archery in which the goal is to strike targets in the shape of animals at unknown distances.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>3x3</NAME>
+<DESCRIPTION>A variation of basketball played on a half court with just three players in each team.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME> Adventure Racing </NAME>
+<DESCRIPTION>An event combining two or more endurance disciplines, such as Orienteering, Cross-Country Running, Mountain Biking, Paddling and Climbing</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Aerobatics </NAME>
+<DESCRIPTION>A SPORT aerobatics involves aircraft maneuvers such as rolls, loops, stall turns (hammerheads), and tailslides. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Arena Football</NAME>
+<DESCRIPTION>A variety of American Football (Gridiron), played indoors on a smaller field resulting in a faster and higher-scoring game.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Arm Wrestling</NAME>
+<DESCRIPTION>A type of Wrestling where each participant place one elbow on a surface while gripping the other participant's hand. The aim is to pin the other's arm onto the surface.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Axe throwing</NAME>
+<DESCRIPTION> A SPORT in which competitors throw axes at a circular target.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Badminton </NAME>
+<DESCRIPTION>An indoor game with rackets in which a shuttlecock is hit back and forth across a net. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Baseball </NAME>
+<DESCRIPTION>A bat and ball game in which the aim is to hit the ball and score runs by running around four bases. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Basketball </NAME>
+<DESCRIPTION>Players attempt to shoot the ball through the hoop on the opponent�s court, moving the ball by throwing and dribbling. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Bicycle Motocross(BMX) </NAME>
+<DESCRIPTION>Races on BMX bicycles. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Bowling</NAME>
+<DESCRIPTION>A general term of a large range of SPORTs in which the player rolls a ball to knock down objects.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Boxing</NAME>
+<DESCRIPTION>A combat SPORT in which two players throw punches at each other. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Catchball </NAME>
+<DESCRIPTION>An easier version of volleyball in which the players catch and throw the ball rather than hit it. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Chess </NAME>
+<DESCRIPTION>A strategy board game played by two players on a checkered gameboard with 64 squares arranged in an 8�8 grid. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Cricket </NAME>
+<DESCRIPTION>A team SPORT played on a rectangular pitch in the centre of a large grass oval, two batters protect their wicket while the fielding team try to get them out. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Crossbow Archery </NAME>
+<DESCRIPTION>An archery discipline in which a crossbow is used instead of a regular bow. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME> Cycling</NAME>
+<DESCRIPTION>A SPORT which involves riding a bicycle </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Darts </NAME>
+<DESCRIPTION>A throwing game in which small missiles are thrown at a target, which is called a dartboard. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Diving</NAME>
+<DESCRIPTION>An aquatic SPORT where athletes dive into water from a raised launch pad, while performing acrobatic movements.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>EKiden</NAME>
+<DESCRIPTION> </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Endurance Running </NAME>
+<DESCRIPTION>Track and field running races over distances of 3kms and greater. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>e-SPORTs </NAME>
+<DESCRIPTION>Competitive form of playing computer games (gaming). </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Fencing </NAME>
+<DESCRIPTION>Competitors face each other and attempt to touch each other with the tip of a thin sword. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Filed Handball</NAME>
+<DESCRIPTION>The original version of Handball, played outdoors on a larger field and more players. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Floor Hockey </NAME>
+<DESCRIPTION>Refers to a collection of indoor hockey SPORTs. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Football </NAME>
+<DESCRIPTION>A family of team SPORTs that involve, to varying degrees, kicking a ball to score a goal.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Freestyle Swimming</NAME>
+<DESCRIPTION>In these events competitors can swim using any stroke of their choice.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Gateball</NAME>
+<DESCRIPTION>a team SPORT played with a wooden mallet and wooden balls.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Golf </NAME>
+<DESCRIPTION>Players use a club to hit balls into a series of holes on a course, using the fewest number of strokes.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Gymnastics </NAME>
+<DESCRIPTION>A range of SPORTs combining tumbling and acrobatic feats, usually done with apparatus. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Handball</NAME>
+<DESCRIPTION>A SPORT usually played indoors between teams of seven players, who pass a ball to throw it into the goal of the other team. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>High Jump </NAME>
+<DESCRIPTION>A Field event in which the participants attempt to jump over the highest bar.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Hockey </NAME>
+<DESCRIPTION>A large range of indoor and outdoor team SPORTs which involves hitting a ball into a net. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Hurdles </NAME>
+<DESCRIPTION>A track and field SPORT which involves running and jumping over obstacles at speed. </DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Ice Climbing </NAME>
+<DESCRIPTION>Athletes climb vertical ice formations with the uses of ropes and other protective gear.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Indoor Cricket </NAME>
+<DESCRIPTION>A modified version of cricket played indoor with nets for walls. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Javelin </NAME>
+<DESCRIPTION>Track and field event involving throwing a spear-like implement as far as possible.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Joggling</NAME>
+<DESCRIPTION>Running races while juggling.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Judo </NAME>
+<DESCRIPTION>The objective is to throw or takedown the opposing player to the ground. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Kabbadi </NAME>
+<DESCRIPTION>A "raider" enters the opposite team's half to tag opponents without taking a breath. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Karate</NAME>
+<DESCRIPTION>A martial art developed in Japan which uses punching, kicking, knee strikes, elbow strikes, and some open-hand techniques. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Kho Kho </NAME>
+<DESCRIPTION>Team that takes lesser time to tag all the opponent players wins the game,</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Kickball </NAME>
+<DESCRIPTION> A type of baseball where the players kick the ball, instead of striking it with a bat.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Kite Fighting </NAME>
+<DESCRIPTION> Battle to cut the lines on the opponents' kites.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Laser Run </NAME>
+<DESCRIPTION>Four legs of laser pistol shooting followed by an 800m run. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Laser Tag </NAME>
+<DESCRIPTION>A skirmish SPORT in which players attempt to score points by tagging targets, typically with a hand-held infrared-emitting targeting device. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Letterboxing </NAME>
+<DESCRIPTION>An outdoor SPORT that combines orienteering, art, and puzzle solving. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Long Jump </NAME>
+<DESCRIPTION>A track and field event where the participant attempts to jump the longest into a sand pit. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Marathon </NAME>
+<DESCRIPTION>a distance running athletics event. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Mind SPORTs </NAME>
+<DESCRIPTION>A family of SPORTs in which the objective is to test mental strength rather than physical strength.  </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Motorcycling Road Racing </NAME>
+<DESCRIPTION>A motorcycle SPORT involving racing motorcycles as teams or individuals around a circular track. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Netball  </NAME>
+<DESCRIPTION>A team game with seven players on a side, similar to basketball except that players are restricted to certain sections of the court, and a player receiving the ball must stand still until they have passed it to another player. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Obstacle Course Racing </NAME>
+<DESCRIPTION>an event requiring an athlete to run through a variety of different obstacles.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Paintball </NAME>
+<DESCRIPTION>A skirmish SPORT in which players compete to eliminate opponents by tagging them with capsules containing water soluble dye propelled from paintball guns. </DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Patball </NAME>
+<DESCRIPTION>school yard game played with hands or head for hitting the ball against a wall. </DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Poker</NAME>
+<DESCRIPTION>A card game that combines gambling, strategy, and skill. The winner of each hand is determined according to the combinations of players' cards.</DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Pushball </NAME>
+<DESCRIPTION>A team SPORT played with a large ball in which the objective is to push the ball through the opponent�s goal posts.</DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Qianball </NAME>
+<DESCRIPTION>A racket and ball SPORT in which can be best described as a mix of aspects from tennis and squash.</DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Race Walking </NAME>
+<DESCRIPTION>Competitors attempt to outrace one another without running. </DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Rugby League</NAME>
+<DESCRIPTION> </DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Running </NAME>
+<DESCRIPTION>Running races can range from short sprints to ultra-marathons. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Sitting Volleyball </NAME>
+<DESCRIPTION>A version of volleyball for disabled athletes played while sitting</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Skateboarding</NAME>
+<DESCRIPTION>A rider balances and performs tricks using a skateboard. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Speedcubing </NAME>
+<DESCRIPTION>Players solve single piece 3D puzzles in the quickest time possible. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Swimming </NAME>
+<DESCRIPTION>The SPORT of propelling oneself through water using the limbs. </DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Table Tennis</NAME>
+<DESCRIPTION>Racket SPORT played with small paddles and a lightweight ball on a rectangular table with a net in the middle.</DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Throwball </NAME>
+<DESCRIPTION>a SPORT very similar to Newcomb Ball (a variation of Volleyball) that is played in India.</DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Triple Jump </NAME>
+<DESCRIPTION>A track and field event where the participant attempts to hop, skip and jump the longest distance. </DESCRIPTION>
+</SPORT>
+
+
+<SPORT>
+<NAME>Unicycling </NAME>
+<DESCRIPTION>SPORTs using a single wheel cycle. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Volleyball </NAME>
+<DESCRIPTION>Game for two teams of six players, in which a large ball is hit by hand over a high net, the aim being to score points by making the ball reach the ground on the opponent's side of the court. </DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Wallball </NAME>
+<DESCRIPTION>Game for two teams of six players, in which a large ball is hit by hand over a high net, the aim being to score points by making the ball reach the ground on the opponent's side of the court.</DESCRIPTION>
+</SPORT>
+
+<SPORT>
+<NAME>Zorb Football </NAME>
+<DESCRIPTION>A team SPORT that was derived from association football in which players are encased in an inflated bubble.</DESCRIPTION>
+</SPORT>
+
+</list_of_SPORTs>
+
